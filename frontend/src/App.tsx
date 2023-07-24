@@ -4,9 +4,9 @@ import Map from './components/Map/Map'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
        
-      </header>
+      </header> */}
       <Map />
     </div>
   );

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trollkarlens-Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da3329a17df467e1934e6f5c8f2fb91130fc4b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567ee1f0570b6de3879ad8c32a733541ea10a52e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trollkarlens-Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trollkarlens-Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

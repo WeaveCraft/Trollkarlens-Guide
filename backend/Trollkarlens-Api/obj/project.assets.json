@@ -98,6 +98,16 @@
         "runtime": {
           "bin/placeholder/Trollkarlens-Data.dll": {}
         }
+      },
+      "Trollkarlens-Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Trollkarlens-Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Trollkarlens-Logic.dll": {}
+        }
       }
     }
   },
@@ -435,12 +445,18 @@
       "type": "project",
       "path": "../Trollkarlens-Data/Trollkarlens-Data.csproj",
       "msbuildProject": "../Trollkarlens-Data/Trollkarlens-Data.csproj"
+    },
+    "Trollkarlens-Logic/1.0.0": {
+      "type": "project",
+      "path": "../Trollkarlens-Logic/Trollkarlens-Logic.csproj",
+      "msbuildProject": "../Trollkarlens-Logic/Trollkarlens-Logic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "Trollkarlens-Data >= 1.0.0"
+      "Trollkarlens-Data >= 1.0.0",
+      "Trollkarlens-Logic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -478,6 +494,9 @@
           "projectReferences": {
             "F:\\Development\\Trollkarlens-Guide\\backend\\Trollkarlens-Data\\Trollkarlens-Data.csproj": {
               "projectPath": "F:\\Development\\Trollkarlens-Guide\\backend\\Trollkarlens-Data\\Trollkarlens-Data.csproj"
+            },
+            "F:\\Development\\Trollkarlens-Guide\\backend\\Trollkarlens-Logic\\Trollkarlens-Logic.csproj": {
+              "projectPath": "F:\\Development\\Trollkarlens-Guide\\backend\\Trollkarlens-Logic\\Trollkarlens-Logic.csproj"
             }
           }
         }

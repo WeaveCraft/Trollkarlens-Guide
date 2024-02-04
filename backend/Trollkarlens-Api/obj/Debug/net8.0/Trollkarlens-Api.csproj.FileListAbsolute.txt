@@ -33,3 +33,5 @@ F:\Development\Trollkarlens-Guide\backend\Trollkarlens-Api\obj\Debug\net8.0\refi
 F:\Development\Trollkarlens-Guide\backend\Trollkarlens-Api\obj\Debug\net8.0\Trollkarlens-Api.pdb
 F:\Development\Trollkarlens-Guide\backend\Trollkarlens-Api\obj\Debug\net8.0\Trollkarlens-Api.genruntimeconfig.cache
 F:\Development\Trollkarlens-Guide\backend\Trollkarlens-Api\obj\Debug\net8.0\ref\Trollkarlens-Api.dll
+F:\Development\Trollkarlens-Guide\backend\Trollkarlens-Api\bin\Debug\net8.0\Trollkarlens-Logic.dll
+F:\Development\Trollkarlens-Guide\backend\Trollkarlens-Api\bin\Debug\net8.0\Trollkarlens-Logic.pdb

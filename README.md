@@ -1,5 +1,5 @@
 # Trollkarlens-Guide
-Google Maps for Bar Hopping
+Maps for Bar Hopping
 
 # Frontend
 React/TypeScript 
